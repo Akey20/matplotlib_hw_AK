@@ -1,2 +1,2 @@
-# matplotlib_hw_AK
+# Matplotlib-Challenge
 matplotlib assignment
